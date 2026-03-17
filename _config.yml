@@ -160,7 +160,7 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: GarrettCui/blog-comments
+    repo: GarrettCui1/blog-comments
     repo-id: R_kgDOIogitQ
     category: Announcements
     category-id: DIC_kwDOIogitc4CTHx2
