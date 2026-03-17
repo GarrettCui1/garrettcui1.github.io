@@ -2,12 +2,12 @@
 layout: page
 title: About
 description: Simple, and good enough.
-keywords: CupCui
+keywords: GarrettCui
 comments: true
 menu: 关于
 permalink: /about/
 ---
-CupCui
+GarrettCui
 
 Simple, and good enough.
 

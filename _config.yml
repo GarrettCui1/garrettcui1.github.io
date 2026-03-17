@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://cupcui.github.io/
+url: https://garrettcui1.github.io/
 date_format: "ordinal"
-title: CupCui
+title: GarrettCui
 subtitle: "Simple, and good enough."
 description: "崔杯杯的个人博客"
-keywords: CupCui, 崔杯杯, onecup
+keywords: GarrettCui, 崔杯杯, onecup
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2022
 # 源码仓库，请替换成自己的
-repository: cupcui/cupcui.github.io
+repository: garrettcui1/garrettcui1.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: CupCui
+        image_alt: GarrettCui
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -54,10 +54,10 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: CupCui
+author: GarrettCui
 organization: 
 organization_url: 
-github_username: CupCui
+github_username: GarrettCui
 location: BeiJing, China
 email: garrettcui@outlook.com
 
@@ -160,7 +160,7 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: CupCui/blog-comments
+    repo: GarrettCui/blog-comments
     repo-id: R_kgDOIogitQ
     category: Announcements
     category-id: DIC_kwDOIogitc4CTHx2
