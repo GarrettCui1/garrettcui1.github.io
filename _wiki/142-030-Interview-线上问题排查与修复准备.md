@@ -1,19 +1,3 @@
----
-
-layout: wiki
-
-title: 142-030-Interview-线上问题排查与修复准备.md
-
-cate1: Interview
-
-cate2: Interview
-
-description: 142-030-Interview-线上问题排查与修复准备.md
-
-keywords: Interview
-
----
-
 # 面试问答准备 - 线上问题排查与修复、代码重构、系统稳定性
 
 > **文档版本**：V1.0

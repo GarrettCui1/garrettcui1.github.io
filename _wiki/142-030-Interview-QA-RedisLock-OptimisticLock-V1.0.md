@@ -1,20 +1,3 @@
----
-
-layout: wiki
-
-title: 142-030-Interview-QA-RedisLock-OptimisticLock-V1.0.md
-
-cate1: Interview
-
-cate2: Interview
-
-description: 142-030-Interview-QA-RedisLock-OptimisticLock-V1.0.md
-
-keywords: Interview
-
----
-
-
 # 面试专项准备：Redis分布式锁 + 乐观锁解决重复付款问题
 
 <small>*基于简历亮点第4条：使用Redis分布式锁+乐观锁机制，解决高并发下的重复付款问题* | V1.0 | 崔光浩</small>

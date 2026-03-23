@@ -1,19 +1,3 @@
----
-
-layout: wiki
-
-title: 142-030-Interview-账户模块调优准备.md
-
-cate1: Interview
-
-cate2: Interview
-
-description: 142-030-Interview-账户模块调优准备.md
-
-keywords: Interview
-
----
-
 # 面试准备文档：账户模块调优亮点深度解析
 
 **文档定位**：针对简历中"负责账户模块调优，通过SQL优化+代码重构，将核心接口响应时间从3秒降至800毫秒"这一条，提供完整的面试问答参考。

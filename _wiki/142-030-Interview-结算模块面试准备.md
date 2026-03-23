@@ -1,19 +1,3 @@
----
-
-layout: wiki
-
-title: 142-030-Interview-结算模块面试准备.md
-
-cate1: Interview
-
-cate2: Interview
-
-description: 142-030-Interview-结算模块面试准备.md
-
-keywords: Interview
-
----
-
 # 面试准备文档 - 结算模块分布式事务与并发控制
 
 > 针对简历第三条亮点："参与结算模块设计与研发，解决分布式事务、防重提交、并发控制等技术难点"
